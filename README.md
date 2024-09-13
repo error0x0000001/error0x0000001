@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I Watch Anime**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me : </h3>
 
 <p align="left">
   <a href="https://instagram.com/error_0x00000001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="error_0x00000001" height="30" width="40" /></a>
